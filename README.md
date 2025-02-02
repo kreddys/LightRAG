@@ -1088,3 +1088,6 @@ primaryClass={cs.IR}
 }
 ```
 **Thank you for your interest in our work!**
+
+ollama show --modelfile deepseek-r1:7b > Modelfile
+ollama create -f Modelfile deepseek-r1:7bm
